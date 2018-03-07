@@ -1,0 +1,11 @@
+{
+  "source": [
+    "https://github.com/iMarkup/grunt-add-foundation.git"
+],
+  "path": "markup",
+  "run": [
+    "bower install",
+    "npm install",
+    "grunt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "source": [
+    "git://github.com/iMarkup/grunt-base-template.git"
+],
+  "path": "markup",
+  "run": [
+    "npm install",
+    "grunt"
+  ]
+}

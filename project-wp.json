@@ -1,0 +1,16 @@
+{
+  "source": [
+    "git://github.com/iMarkup/grunt-base-template.git",
+    "git://github.com/iMarkup/grunt-add-cms.git",
+    "git://github.com/iMarkup/grunt-add-wp.git"
+],
+  "path": "markup",
+  "ignore": [
+    "scss/all.scss",
+    "scss/base/_base-reset.scss"
+  ],
+  "run": [
+    "npm install",
+    "grunt"
+  ]
+}
