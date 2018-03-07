@@ -1,7 +1,7 @@
 {
   "source": [
-    "git://github.com/iMarkup/grunt-base-template.git",
-    "git://github.com/iMarkup/grunt-add-bootstrap.git"
+    "git://github.com/yasir-yk/Grunt-Base-Template-Master.git",
+    "git://github.com/yasir-yk/Grunt-add-Bootstrap-Master.git"
   ],
   "path": "markup",
   "ignore": [
